@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\enm\enm\bin\Debug\net8.0\enm.exe
+C:\Users\hp\source\repos\enm\enm\bin\Debug\net8.0\enm.deps.json
+C:\Users\hp\source\repos\enm\enm\bin\Debug\net8.0\enm.runtimeconfig.json
+C:\Users\hp\source\repos\enm\enm\bin\Debug\net8.0\enm.dll
+C:\Users\hp\source\repos\enm\enm\bin\Debug\net8.0\enm.pdb
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.AssemblyInfo.cs
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.dll
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\refint\enm.dll
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.pdb
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\enm.genruntimeconfig.cache
+C:\Users\hp\source\repos\enm\enm\obj\Debug\net8.0\ref\enm.dll
